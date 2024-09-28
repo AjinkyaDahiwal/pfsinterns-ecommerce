@@ -4,8 +4,7 @@ This repository consists of my ecommerce project which i completed during my int
 Installation
 Clone the Repository:
 
-bash
-Copy code
+
 git clone https://github.com/AjinkyaDahiwal/pfsinterns-ecommerce.git
 cd pfsinterns-ecommerce
 Install Dependencies:
